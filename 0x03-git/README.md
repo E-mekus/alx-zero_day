@@ -1,1 +1,1 @@
-i am no a software engineer yet.
+i am not a software engineer yet.
